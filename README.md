@@ -28,9 +28,6 @@ HTTP2 fingerprinting.
     requests - For making HTTP requests.
     urllib.parse - For handling URL parsing and joining.
 
-📚 
-
--->   pip install cloudscraper beautifulsoup4 requests urllib.parse
 
 🛠️ Configuration
 
@@ -57,9 +54,7 @@ The crawler uses Python's built-in logging module to log events. Logs are printe
     Script etries with a maximum of MAX_RETRIES attempts for each URL.
     Uses exception handling to catch and log HTTP-related errors.
 
-🖇️ Contributions
 
-Contributions are welcome! Please fork this repository and submit a pull request with your changes. Ensure your code follows PEP-8 standards.
 📝 License
 
 This project is licensed under the MIT License.
