@@ -13,13 +13,13 @@ HTTP2 fingerprinting]
    
 🚀 Features
 
-    Multi-Threaded Crawling: Efficiently handles multiple URLs concurrently.
-    Content Scraping and Parsing: Extracts and saves HTML, images, scripts, and other resources.
-    Offline Site Generation: Reconstructs the website structure for offline browsing, with adjusted internal links.
+    Multi-Threading
+    Parsing HTML, CSS, images, PDF's and other resources.
+    Offline Site Generation
     Advanced Protection Bypass: Resistant to Cloudflare protection, 403 Forbidden errors, TLS, JA3, and HTTP2 fingerprinting.
-    Rotating Proxies and User Agents: Utilizes rotating proxies and randomizes user agents to evade detection.
-    Flexible Crawling Strategies: Supports breadth-first search (BFS) and depth-first search (DFS).
-    Robust Error Handling: Retries failed requests and logs errors.
+    Rotating Proxies and User Agents on every request.
+    Breadth-first search (BFS) and Depth-first search (DFS).
+    Retries failed requests and logs errors.
 
 📦 Requirements
 
