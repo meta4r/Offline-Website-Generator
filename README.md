@@ -4,7 +4,7 @@ Web Crawler + Scraper + Parser
 A Python-based multithreaded web crawler for scraping and saving web pages with support for different crawling strategies, proxies, and user agents. This web crawler leverages cloudscraper to bypass common anti-bot mechanisms and BeautifulSoup for HTML parsing. It ensures the accurate reconstruction of websites for offline access with intelligent link adjustments and robust error handling.
 It's designed for comprehensive website crawling, scraping, and offline site generation. This powerful tool not only traverses and downloads entire websites but also bypasses advanced protections and restrictions including:
 
-Ant- [Cloudflare Protection,
+Anti - [Cloudflare Protection,
 403 Forbidden errors,
 TLS,
 JA3,
