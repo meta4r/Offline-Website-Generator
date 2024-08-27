@@ -19,15 +19,14 @@ HTTP2 fingerprinting]
     Advanced Protection Bypass: Resistant to Cloudflare protection, 403 Forbidden errors, TLS, JA3, and HTTP2 fingerprinting.
     Rotating Proxies and User Agents on every request.
     Breadth-first search (BFS) and Depth-first search (DFS).
-    Retries failed requests and logs errors.
-
+   
 📦 Requirements
 
-    Python 3.x
-    cloudscraper - For bypassing anti-bot mechanisms.
-    BeautifulSoup - For HTML parsing.
-    requests - For making HTTP requests.
-    urllib.parse - For handling URL parsing and joining.
+    Python 3
+    cloudscraper 
+    BeautifulSoup 
+    requests 
+    urllib.parse
 
 
 🛠️ Configuration
